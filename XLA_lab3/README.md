@@ -1,8 +1,9 @@
   # Nhập Môn Xử Lý Ảnh Số - Lab 3
 ## Tiền xử lý ảnh: Làm mịn & Nâng cao chất lượng ảnh
-** Sinh viên thực hiện:** Nguyễn Bùi Minh Đức MSSV: 2174802010856
-Môn học: Nhập môn Xử lý ảnh số
-Giảng viên: Đỗ Hữu Quân
+**Sinh viên thực hiện:** Nguyễn Bùi Minh Đức  
+**MSSV:** 2174802010856  
+**Môn học:** Nhập môn Xử lý ảnh số  
+**Giảng viên:** Đỗ Hữu Quân  
 
 ## Mục tiêu: 
 Thực hành các kỹ thuật xử lý hình học như cắt ảnh, tịnh tiến, xoay, thay đổi kích thước, biến dạng ảnh... sử dụng ngôn ngữ Python và thư viện xử lý ảnh số.
